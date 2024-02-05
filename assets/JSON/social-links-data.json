@@ -1,0 +1,15 @@
+{
+    "img": "../img/omer-esin-avatar.jpg",
+    "fullname": "Ömer Esin",
+    "locaiton": "Kocaeli/Çayırova",
+    "about": "Front-end Developer",
+    "link": [
+        {
+            "github": "https://github.com/esmomerr",
+            "frontend-mentor": "https://www.frontendmentor.io/profile/esmomerr",
+            "linkedin": "https://www.linkedin.com/in/%C3%B6mer-esim-68921a248/",
+            "twitter": "https://twitter.com/omerEsim4",
+            "instagram": "https://www.instagram.com/_esnomerr/"
+        }
+    ]
+}
